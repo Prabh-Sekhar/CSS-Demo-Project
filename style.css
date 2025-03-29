@@ -161,7 +161,7 @@ a {
 .sign-up-bar {
     display: flex;
     justify-content: center;
-    min-width: 1000px;
+    min-width: 1500px;
 }
 
 .sign-up-bar .sign-up{
@@ -172,8 +172,6 @@ a {
     margin: 75px;
     border-radius: 10px;
     width: 60%;
-    flex-wrap: wrap;
-    min-width: 500px;
 }
 
 .sign-up-text {
@@ -200,7 +198,6 @@ a {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 900;
-    margin-bottom: 20px;
 }
 
 
